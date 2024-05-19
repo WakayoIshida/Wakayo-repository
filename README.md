@@ -1,4 +1,4 @@
-# Wakayo-repository
+# Wakayo's repository
 
 ## Hi,there
 
